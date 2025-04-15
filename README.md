@@ -17,7 +17,7 @@
 - Developed an **Air Quality Index Visualization** tool using Power BI and Streamlit to analyze AQI trends and regional disparities.
 
 **📌 Hudsmer Business Solutions (Ongoing)**  
-- Integrating a **Virtual Try-On AI Model** into an eCommerce platform using Django and Python to enhance real-time customer experience.
+- Currently working on building the backend using Django.
 
 ---
 
