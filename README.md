@@ -70,13 +70,6 @@
 
 ---
 
-## 📫 Get in Touch
-
-📍 Thoothukudi, Tamil Nadu  
-📧 s.aishwarya2412@gmail.com  
-📱 +91 9080719298  
-
----
 
 ![Aishwarya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aishwarya2422005&show_icons=true&theme=radical)
 
